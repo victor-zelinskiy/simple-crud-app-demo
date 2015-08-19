@@ -1,0 +1,17 @@
+#mainDiv {
+    width: 80%;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+
+.pagination-div {
+    display: inline-block;
+}
+
+.watermark {
+    opacity: 0.25;
+    font-size: 3em;
+    width: 100%;
+    text-align: center;
+}
